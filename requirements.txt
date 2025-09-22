@@ -1,0 +1,10 @@
+pandas
+matplotlib
+seaborn
+scikit-learn
+nltk
+streamlit
+requests
+python-dotenv
+dotenv
+gdown
